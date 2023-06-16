@@ -1,2 +1,2 @@
 # 2MAN4PAD
- Manpad Game
+Simple ManPad Game made in Unity for the Oculus Quest 2.
